@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-import MDCComponent from '@material/base/component';
+import {MDCComponent} from '@material/base';
 import {MDCListFoundation} from './foundation';
 import {strings} from './constants';
 
